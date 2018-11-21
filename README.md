@@ -1,2 +1,2 @@
 # DateTimeHelper
-Conversão de DateTime e timestamp
+Helper para facilitar conversões de DateTime para timestamp e vice-versa.
